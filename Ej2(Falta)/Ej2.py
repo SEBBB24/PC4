@@ -1,3 +1,4 @@
+pip install pyfiglet
 from pyfiglet import Figlet
 import random
 
